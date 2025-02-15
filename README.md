@@ -14,8 +14,7 @@
 - 📫 How to reach me **aryansinghrajput1966@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view](https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view)
-<img align="right" alt="coding" width="400" src="https://user-
-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media.licdn.com/dms/image/v2/D5612AQELxiSEZX2wpw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1718172474795?e=2147483647&v=beta&t=jaZd5-e5OGLBXiZArQRTNIYu5oVovZFJEQNwTuSB1tU">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/XskpoPFydwSGSyns8">
 
 
 <h3 align="left">Connect with me:</h3>
