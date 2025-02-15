@@ -15,9 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view](https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view)
 
-- 
-<img align="right" alt="coding" width="100" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4.gif">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
