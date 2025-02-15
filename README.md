@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Rajput&color=blue)
 
+![Banner](https://github.com/Aryan-Rajput/Aryan-Rajput/blob/main/assets/banner.gif)
+
 🚀 **Cloud & DevOps | AI & ML | Full-Stack Developer**
 
 I'm a passionate developer working on cutting-edge technologies, including Cloud Computing, DevOps, AI/ML, and Full-Stack Development. I enjoy building scalable applications and optimizing cloud infrastructure.
