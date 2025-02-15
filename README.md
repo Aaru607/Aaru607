@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2afaefa-5f76-4f0c-bec5-34496227056d)![image](https://github.com/user-attachments/assets/a04cb4f7-3a7a-496c-ba49-e57fed17c8f9)<h1 align="center">Hi 👋, I'm Aryan Rajput</h1>
+<h1 align="center">Hi 👋, I'm Aryan Rajput</h1>
 <h3 align="center">I'm a passionate developer working on cutting-edge technologies, including Cloud Computing, DevOps, AI/ML, and Full-Stack Development. I enjoy building scalable applications and optimizing cloud infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaru607&label=Profile%20views&color=0e75b6&style=flat" alt="aaru607" /> </p>
