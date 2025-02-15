@@ -1,53 +1,30 @@
-### Hi there, I'm Aryan Rajput! 👋
+<h1 align="center">Hi 👋, I'm Aryan Rajput</h1>
+<h3 align="center">I'm a passionate developer working on cutting-edge technologies, including Cloud Computing, DevOps, AI/ML, and Full-Stack Development. I enjoy building scalable applications and optimizing cloud infrastructure.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Rajput&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaru607&label=Profile%20views&color=0e75b6&style=flat" alt="aaru607" /> </p>
 
-![Banner](https://github.com/Aryan-Rajput/Aryan-Rajput/blob/main/assets/banner.gif)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaru607" alt="aaru607" /></a> </p>
 
-🚀 **Cloud & DevOps | AI & ML | Full-Stack Developer**
+- 🔭 I’m currently working on **MindForge**
 
-I'm a passionate developer working on cutting-edge technologies, including Cloud Computing, DevOps, AI/ML, and Full-Stack Development. I enjoy building scalable applications and optimizing cloud infrastructure.
+- 🌱 I’m currently learning **GRAFANA**
 
----
+- 💬 Ask me about **AWS, AZURE, JENKINS**
 
-### 🔧 Tech Stack:
+- 📫 How to reach me **aryansinghrajput1966@gmail.com**
 
-#### 🚀 Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view](https://drive.google.com/file/d/1Y4XZKmXVZN7TbnH9A4eo7Q7JCi1VSmhn/view)
 
-#### 🖥️ Programming & Frameworks:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-rajput-251a6a237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-rajput-251a6a237" height="30" width="40" /></a>
+</p>
 
-#### 🛢️ Databases & Cloud Storage:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-#### 📊 Data Science & AI:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaru607&show_icons=true&locale=en&layout=compact" alt="aaru607" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaru607&show_icons=true&locale=en" alt="aaru607" /></p>
 
-### 📈 GitHub Stats:
-
-| 🔥 Streak Stats | 📊 GitHub Stats |
-|---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rajput&theme=radical) | ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Rajput&show_icons=true&theme=radical) |
-
----
-
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rajput)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-⭐ **Feel free to explore my repositories and contribute!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaru607&" alt="aaru607" /></p>
